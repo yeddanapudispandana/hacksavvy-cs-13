@@ -15,12 +15,12 @@ const HeroHeader = () => {
   return (
     <div className="w-full flex flex-col justify-center items-center gap-1">
       <h3 className="w-full lg:w-3/4 text-center text-h1 font-dm font-bold text-3xl lg:text-5xl tracking-tight">
-        Your Ultimate Knowledge Hub for Everything about{" "}
-        <span className="text-grape-300">Technology</span>
+        Where Passions Ignite, Communities Unite, Ideas Thrive and{" "}
+        <span className="text-grape-300">Connections Last!</span>
       </h3>
       <span className="w-full lg:w-2/3 tracking-tight font-light text-sm md:text-xl text-center text-h2">
-        Explore the future of technology through well-organized,
-        community-driven documentation
+        Own what’s yours, share on your terms—because your data is your
+        identity.
       </span>
     </div>
   );
