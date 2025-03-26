@@ -107,8 +107,9 @@ const FooterHome = () => {
             </span>
           </div>
           <p className="text-sm md:text-base tracking-tighter text-neutral-500">
-            Your Comprehensive Knowledge Hub for Technology. Discover the Future
-            Through Curated, Community-Driven Documentation.
+            Providing a dedicated space where lasting bonds are formed and
+            nurtured. Empowering individual expression within supportive
+            networks.
           </p>
           <ul className="flex gap-3 w-full py-2">
             {SOCIAL_LISTS.map((social) => (

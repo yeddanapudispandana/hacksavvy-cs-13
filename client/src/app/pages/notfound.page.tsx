@@ -8,8 +8,8 @@ const NotfoundPage = () => {
     <section className="w-full h-svh flex flex-col justify-center items-center gap-5">
       <Logo withText className="w-24" />
       <div className="flex flex-col justify-center items-center gap-1">
-        <h1 className="text-5xl md:text-7xl font-bold">404</h1>
-        <p className="text-lg">Page not found</p>
+        <h1 className="text-h1 text-5xl md:text-7xl font-bold">404</h1>
+        <p className="text-lg text-p">Page not found</p>
       </div>
       <Button onClick={() => navigate("/")} variant={"secondary"}>
         Back to Home
